@@ -7700,3 +7700,7 @@ footer{
 	box-shadow: -1px -9px 24px 0px rgba(0,0,0,0.32);
 	border-top: 4px solid #4e4e4e;
 }
+.btn-primary{
+	transition: 0.5s;
+	padding: 10px;
+}
