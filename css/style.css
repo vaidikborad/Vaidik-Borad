@@ -7693,8 +7693,8 @@ hr{
     text-align: center;
 }
 .footer-logo{
-    border-radius: 10px;
-    padding: 10px;
+    border-radius: 0px;
+    padding: 0px;
 }
 footer{
 	box-shadow: -1px -9px 24px 0px rgba(0,0,0,0.32);
