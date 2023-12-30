@@ -7642,11 +7642,11 @@ a, img {
     width: 100%;
 }
 .footer-box{
-    padding: 20px;
+    padding: 0px;
 }
 .footer-box h1{
     width: 120px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 .footer-box .fas{
     margin-right: 8px;
